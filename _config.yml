@@ -1,6 +1,14 @@
 title: CSE 110 Lab1
-email: chz043@ucsd.edu
+
+author:
+  name: Chi Zhang
+  email: chz043@ucsd.edu
+
 description: This is the webpage for CSE 110 Lab1
-twitter_username: chizhang0810
-github_username:  chizhang9135
+
+social_links:
+  twitter_username: chizhang0810
+  github_username:  chizhang9135
+  linkedin: chizhang0810
+
 theme: minima
