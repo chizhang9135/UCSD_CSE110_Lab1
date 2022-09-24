@@ -31,4 +31,4 @@ Zhuhai, Guangdong, China; a city near Hong Kong.
 [ ] Ordered and Unordered Lists
 [ ] Task list
 
-[Acknowledgment](/Acknowledgment.md)
+[CopyRight](/LICENSE.md)
