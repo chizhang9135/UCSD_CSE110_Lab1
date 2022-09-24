@@ -9,6 +9,6 @@ twitter_username: chizhang0810
 github_username:  chizhang9135
 linkedin_username: chizhang0810
 
-remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: lewismiddleton/cayman-dark
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
+- jekyll-remote-theme
