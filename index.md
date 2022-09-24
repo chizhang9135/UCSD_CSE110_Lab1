@@ -1,8 +1,5 @@
----
-title-heading: false
---- 
 
-# Chi as SDE
+#### Chi as SDE
 
 ### Where I from?
 Zhuhai, Guangdong, China; a city near Hong Kong.  
