@@ -32,4 +32,4 @@ Zhuhai, Guangdong, China; a city near Hong Kong.
 - [x] Task list
 - [x] Picture
 
-[CopyRight](/GPL.md)
+[CopyRight](CopyRight.md)
