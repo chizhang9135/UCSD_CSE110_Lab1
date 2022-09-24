@@ -20,3 +20,15 @@ Zhuhai, Guangdong, China; a city near Hong Kong.
 * [Engage Kiss](https://www.crunchyroll.com/engage-kiss)
 * [SPY x FAMILY](https://www.crunchyroll.com/spy-x-family)
 
+## Check Lists For This Lab
+- [ ] Headings
+- [ ] Styling text
+- [ ] Quoting text
+- [ ] Quoting code
+- [ ] External Links
+- [ ] Section links
+- [ ] Relative links
+- [ ] Ordered and Unordered Lists
+- [ ] Task lists
+
+[Acknowledgment](/Acknowledgment.md)
