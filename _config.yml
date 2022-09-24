@@ -1,5 +1,12 @@
-title: CSE 110 Lab 1
-description: A webpage for CSE 110 Lab1
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-cayman
+title: CSE 110 Lab1
+
+name: Chi Zhang
+email: chz043@ucsd.edu
+
+description: This is the webpage for CSE 110 Lab1
+
+twitter_username: chizhang0810
+github_username:  chizhang9135
+linkedin_username: chizhang0810
+
+theme: minima
