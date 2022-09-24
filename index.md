@@ -1,5 +1,3 @@
-# Home
-
 # Chi as SDE
 
 ### Where I from?
