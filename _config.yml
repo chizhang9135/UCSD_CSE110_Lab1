@@ -10,4 +10,6 @@ github_username:  chizhang9135
 linkedin_username: chizhang0810
 
 theme: minima
-skin: dark
+
+minima:
+  skin: auto
