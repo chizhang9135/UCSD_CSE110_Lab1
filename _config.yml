@@ -1,7 +1,6 @@
 title: CSE 110 Lab1
 email: chz043@ucsd.edu
-description: >- # this means to ignore newlines until "baseurl:"
-  This is the official personal website for Chi Zhang.
+description: This is the webpage for CSE 110 Lab1
 twitter_username: chizhang0810
 github_username:  chizhang9135
 theme: minima
