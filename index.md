@@ -1,7 +1,6 @@
 ---
-layout: default
----
-test  
+title-heading: false
+--- 
 
 # Chi as SDE
 
