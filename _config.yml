@@ -9,6 +9,4 @@ twitter_username: chizhang0810
 github_username:  chizhang9135
 linkedin_username: chizhang0810
 
-remote_theme: lewismiddleton/cayman-dark
-plugins:
-- jekyll-remote-theme
+theme: jekyll-theme-cayman

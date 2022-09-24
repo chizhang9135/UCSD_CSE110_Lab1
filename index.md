@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Chi as SDE
 
 ### Where I from?
