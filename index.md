@@ -13,12 +13,57 @@ Zhuhai, Guangdong, China; a city near Hong Kong.
 4. Swift
 5. C
 
+## Hello World in 5 languages
+### C
+```
+#include <stdio.h>
+int main() {
+printf("Hello World");
+return 0;
+}
+```
+
+### C++
+```
+#include <iostream>
+
+int main() {
+	std::cout << "Hello World";
+	return 0;
+}
+```
+
+### PHP
+```
+echo "Hello World";
+```
+
+### Assembly
+```
+    global _main
+    extern _printf
+
+    section .text
+_main:
+    push    message
+    call    _printf
+    add        esp, 4
+message:
+    db    'Hello World', 10, 0
+```
+
+### Ruby
+```
+puts 'Hello World'
+```
+
 ## Anime I watch recently (no rank)
 * [Lycoris Recoil](https://www.crunchyroll.com/lycoris-recoil)
 * [A Couple of Cuckoos](https://www.crunchyroll.com/a-couple-of-cuckoos)
 * [Sword Art Online](https://www.crunchyroll.com/sword-art-online)
 * [Engage Kiss](https://www.crunchyroll.com/engage-kiss)
 * [SPY x FAMILY](https://www.crunchyroll.com/spy-x-family)
+
 
 ## Check Lists For This Lab
 - [x] Headings
@@ -27,7 +72,7 @@ Zhuhai, Guangdong, China; a city near Hong Kong.
 - [ ] Quoting code
 - [x] External Links
 - [ ] Section links
-- [ ] Relative links
+- [x] Relative links
 - [x] Ordered and Unordered Lists
 - [x] Task list
 - [x] Picture
