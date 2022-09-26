@@ -15,9 +15,9 @@
 6. ~~Assembly~~ 
 
 ## My favorite Drink
-My favorite drink is Dihydrogen oxide (H<sub>2</sub>O).
-**I want to drink 45<sup>2</sup> of water each _86400_ second**
-***I love water at `#333333`50 Celsius***
+My favorite drink is `Dihydrogen oxide` (H<sub>2</sub>O).
+**I want to drink 45<sup>2</sup> ml of water each _86400_ second**
+***I love water at 50 Celsius***
 
 ## Hello World in 5 languages
 ### C
