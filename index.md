@@ -2,7 +2,7 @@
 # Chi as SDE
 
 ## Where I from?
-Zhuhai, Guangdong, China; a city near Hong Kong.  
+**Zhuhai**, Guangdong, China; a city near *Hong Kong*.  
 ![Picture of Zhuhai](/images/zhuhai.jpeg)
 
 
@@ -12,6 +12,12 @@ Zhuhai, Guangdong, China; a city near Hong Kong.
 3. C++
 4. Swift
 5. C
+6. ~~Assembly~~ 
+
+## My favorite Drink
+My favorite drink is Dihydrogen oxide (H<sub>2</sub>O).
+**I want to drink 45<sup>2</sup> of water each _86400_ second**
+***I love water at `#333333`50 Celsius***
 
 ## Hello World in 5 languages
 ### C
