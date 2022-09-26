@@ -4,6 +4,8 @@
 ## Where I from?
 **Zhuhai**, Guangdong, China; a city near *Hong Kong*.  
 ![Picture of Zhuhai](/images/zhuhai.jpeg)
+Below is a description from wiki:  
+> Zhuhai (/ˈdʒuːˈhaɪ/,[3] Chinese: 珠海; pinyin: Zhūhǎi; Yale: Jyūhói), also known as Chuhai is a prefecture-level city located on the west bank of Pearl River estuary on the central coast of southern Guangdong province, People's Republic of China, on the southeastern edge of Pearl River Delta. Its name literally means "pearl sea", which originates from the city's location at the mouth of the Pearl River meeting the South China Sea. Zhuhai borders Jiangmen to the west, Zhongshan to the north and Macau to the southeast, and shares maritime boundaries with Shenzhen and Hong Kong to the northeast across the estuary.
 
 
 ## What languages I like? (rank from high to low)
@@ -73,11 +75,11 @@ puts 'Hello World'
 
 ## Check Lists For This Lab
 - [x] Headings
-- [ ] Styling text
-- [ ] Quoting text
-- [ ] Quoting code
+- [x] Styling text
+- [x] Quoting text
+- [x] Quoting code
 - [x] External Links
-- [ ] Section links
+- [x] Section links -- what is it?
 - [x] Relative links
 - [x] Ordered and Unordered Lists
 - [x] Task list
