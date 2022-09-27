@@ -80,7 +80,7 @@ puts 'Hello World'
 - [x] Quoting text
 - [x] Quoting code
 - [x] External Links
-- [x] Section links -- what is it?
+- [x] Section links
 - [x] Relative links
 - [x] Ordered and Unordered Lists
 - [x] Task list
