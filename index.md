@@ -17,7 +17,7 @@ Below is a description from wiki:
 6. ~~Assembly~~ 
 
 ## My favorite Drink
-My favorite drink is `Dihydrogen oxide` (H<sub>2</sub>O).  
+##### My favorite drink is `Dihydrogen oxide` (H<sub>2</sub>O).  
 **I want to drink 45<sup>2</sup> ml of water each _86400_ second**  
 ***I love water at 50 Celsius***
 
@@ -85,4 +85,22 @@ puts 'Hello World'
 - [x] Task list
 - [x] Picture
 
+###### Test for Nested List
+- This is first layer
+  - This is second layer
+    - This is third layer
+  - This is second layer
+
+##### Mix order with unorder
+1. This is order at first
+   1. Nice
+      - I
+      - II
+        - A
+        - B
+      - III
+    2. Good
+    3. Excellent 
+2. This is order at second  
 [CopyRight](CopyRight.md)
+[Back To the Top](Chi as SDE)
